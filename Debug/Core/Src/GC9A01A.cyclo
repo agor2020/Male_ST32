@@ -1,0 +1,9 @@
+../Core/Src/GC9A01A.c:81:6:GC9A01A_WriteReg	1
+../Core/Src/GC9A01A.c:100:6:GC9A01A_WriteData_Byte	1
+../Core/Src/GC9A01A.c:118:6:GC9A01A_WriteData_Word	1
+../Core/Src/GC9A01A.c:137:6:GC9A01A_Reset	1
+../Core/Src/GC9A01A.c:154:6:GC9A01A_Init	4
+../Core/Src/GC9A01A.c:181:13:GC9A01A_Sleep	1
+../Core/Src/GC9A01A.c:194:13:GC9A01A_WakeUp	1
+../Core/Src/GC9A01A.c:208:6:GC9A01A_SetBacklight	2
+../Core/Src/GC9A01A.c:226:6:GC9A01A_SetWindow	1

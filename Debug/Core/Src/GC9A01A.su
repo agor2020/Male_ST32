@@ -1,0 +1,9 @@
+../Core/Src/GC9A01A.c:81:6:GC9A01A_WriteReg	16	static
+../Core/Src/GC9A01A.c:100:6:GC9A01A_WriteData_Byte	16	static
+../Core/Src/GC9A01A.c:118:6:GC9A01A_WriteData_Word	24	static
+../Core/Src/GC9A01A.c:137:6:GC9A01A_Reset	16	static
+../Core/Src/GC9A01A.c:154:6:GC9A01A_Init	24	static
+../Core/Src/GC9A01A.c:181:13:GC9A01A_Sleep	16	static
+../Core/Src/GC9A01A.c:194:13:GC9A01A_WakeUp	16	static
+../Core/Src/GC9A01A.c:208:6:GC9A01A_SetBacklight	24	static
+../Core/Src/GC9A01A.c:226:6:GC9A01A_SetWindow	24	static

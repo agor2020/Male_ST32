@@ -1,0 +1,6 @@
+../Core/Src/LCD_Paint.c:9:6:resize_nearest_neighbor	32	static
+../Core/Src/LCD_Paint.c:29:6:LCD_DrawPixel	32	static
+../Core/Src/LCD_Paint.c:47:6:LCD_DrawLine	40	static
+../Core/Src/LCD_Paint.c:78:6:LCD_DrawImage	48	static
+../Core/Src/LCD_Paint.c:108:6:LCD_Fill	32	static
+../Core/Src/LCD_Paint.c:130:6:LCD_FillWindow	40	static
